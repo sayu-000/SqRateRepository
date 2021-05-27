@@ -1,1 +1,1 @@
-discordbot: python csvEloSqrsteDiscord.py
+discordbot: python discordbot.py
