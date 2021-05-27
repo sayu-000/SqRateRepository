@@ -54,7 +54,7 @@ def rate(winner, loser,):
 
 players = {}  # idとレートのディクショナリ
 # 既にあるデータの読み込み
-rate_path = r'loSqRating.csv'
+rate_path = r'EloSqRating.csv'
 df = pd.read_csv(rate_path, index_col='id')
 csv_id = 0
 csv_name = 1
